@@ -16,5 +16,3 @@ while(True):
     if len(n) == 1:
         n.insert(0, '0')
 print(count)
-
-    
