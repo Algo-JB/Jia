@@ -1,6 +1,3 @@
-from re import I
-
-
 x = int(input())
 i = 1
 while(x >= 0):
